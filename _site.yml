@@ -1,0 +1,8 @@
+name: "Alex Sun"
+navbar:
+  title: "Jane Austen Peer Review"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
